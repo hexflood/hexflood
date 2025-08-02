@@ -13,9 +13,5 @@ Hey there! I'm **HexFlood**, a 15-year-old student passionate about **cybersecur
   - HTML & CSS 🌐
   - C++ ⚙️
 - 🌍 I believe in ethical hacking and responsible tech use  
-- 🎯 Currently exploring:
-  - Linux CLI & scripting
-  - Web vulnerabilities (OWASP Top 10)
-  - Network tools & packet analysis
 
 ---
