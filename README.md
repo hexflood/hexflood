@@ -1,4 +1,4 @@
-#🚀 About Me
+🚀 About Me
 
 💻 Currently working on Ghostc2 and other projects
 🔓 Passionate about cybersecurity & automation
